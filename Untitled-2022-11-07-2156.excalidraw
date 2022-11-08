@@ -1,0 +1,46 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "v5IOt4b69CXNX_t7zyaYM",
+      "type": "text",
+      "x": 498,
+      "y": 156,
+      "width": 503,
+      "height": 500,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 443561276,
+      "version": 579,
+      "versionNonce": 661493508,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1667871811994,
+      "link": null,
+      "locked": false,
+      "text": "EX- 01\n\n** Comprar se divide em Pedido e Pagamento **\n\nCenário : Pedido de passagem aérea\n\nAtor: cliente\n\nRf01 - Selecionar Local\nRF02 - Escolher trechos\nRF03 - Informar data\nRF04 - Escolher vôo\nRF05 - Consultar horarios\nRF06 - Consultar classes\nRF07 - Selecionar poltrona\nRF08 - Escolher n° parcelas\nRF09 - Cancelar pedido\nRF10 - Efetuar pagamento\n\n-------------------------------------------------------------",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 493,
+      "containerId": null,
+      "originalText": "EX- 01\n\n** Comprar se divide em Pedido e Pagamento **\n\nCenário : Pedido de passagem aérea\n\nAtor: cliente\n\nRf01 - Selecionar Local\nRF02 - Escolher trechos\nRF03 - Informar data\nRF04 - Escolher vôo\nRF05 - Consultar horarios\nRF06 - Consultar classes\nRF07 - Selecionar poltrona\nRF08 - Escolher n° parcelas\nRF09 - Cancelar pedido\nRF10 - Efetuar pagamento\n\n-------------------------------------------------------------"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
